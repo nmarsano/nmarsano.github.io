@@ -1,0 +1,48 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Nicholas Marsano
+    - name: Date of Birth
+      value: January 5th, 2000
+    - name: Languages
+      value: English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor's of Arts
+      institution: Pomona College, Claremont, CA
+      year: 2022
+      description:
+        - Double Major in Computer Science and Mathematics
+        - GPA 3.87
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Full-Stack Developer
+      institution: HCI Lab, Pomona College
+      year: 2021 - 2022
+      description:
+        - Description 1.
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href=""></a>
+      year: 
+      description: 
+
+- title: Interests
+  type: list
+  contents:
+    - <b>Academic</b>
+      - AI's growing role in everyday human life and the workforce
+    - <b>Physical</b>
+      - Bodybuilding, Track & Field
+    - <b>Mental</b>
+      - Transcendental Meditation, High Fantasy Reading & World Creation
+    - <b>Artistic</b>
+      - Drumming, Game Development.
+
